@@ -1,0 +1,16 @@
+{
+  "name": "@arikatsu/discord-handlers",
+  "version": "1.0.0",
+  "description": "An advanced Events and Commands Handler for Discord bots written using discord.js",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arikatsu/discord-handlers.git"
+  },
+  "author": "Arikatsu",
+  "license": "MIT"
+}
